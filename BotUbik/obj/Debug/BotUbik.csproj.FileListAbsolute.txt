@@ -1,0 +1,39 @@
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\Bot Application1.dll.config
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\Bot Application1.dll
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\Bot Application1.pdb
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\Autofac.dll
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\Chronic.dll
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\Microsoft.Bot.Builder.dll
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\Microsoft.Bot.Connector.dll
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\Newtonsoft.Json.dll
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\System.Net.Http.Formatting.dll
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\System.Web.Http.dll
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\System.Web.Http.WebHost.dll
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\Autofac.xml
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\Microsoft.Bot.Builder.xml
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\Microsoft.Bot.Connector.xml
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\Newtonsoft.Json.xml
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\System.Net.Http.Formatting.xml
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\System.Web.Http.xml
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\System.Web.Http.WebHost.xml
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\obj\Debug\Bot Application1.dll
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\obj\Debug\Bot Application1.pdb
+C:\Users\jessica.freitas\Documents\Projetos_jessica\BOT\BotUbik\BotUbik\obj\Debug\BotUbik.csprojResolveAssemblyReference.cache
